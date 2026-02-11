@@ -132,7 +132,3 @@ cd apps/frontend && npm test
 docker compose exec api ruff check .
 cd apps/frontend && npm run lint
 ```
-
-## License
-
-MIT License - See LICENSE file for details.
